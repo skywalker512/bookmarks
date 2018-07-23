@@ -14,7 +14,7 @@
 > [用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件](https://github.com/zhongyang219/TrafficMonitor)
 
 #### Liunx
-> [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/)
+> [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/) \
 > [SSH远程会话管理工具 - screen使用教程](https://www.vpser.net/manage/screen.html)
 
 ### 网络 :cloud:
